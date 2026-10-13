@@ -1,7 +1,7 @@
 Controle de Folga Semanal — 4 Lojas
 Gerenciador simples e rápido de escalas semanais para 4 lojas, com controle de folgas, turnos M/T/D e exportação em TXT e PDF. 100% front-end, sem backend, salva automaticamente no navegador.
 
-### [➡️ Acesse a Calculadora Ao Vivo] https://projetos.nullcipher.site/escala/
+### [➡️ Acesse a Escala Ao Vivo] https://projetos.nullcipher.site/escala/
 
 <img width="694" height="863" alt="Captura de tela 2026-10-12 210611" src="https://github.com/user-attachments/assets/33d1a638-94a6-4d5f-aea5-802b97fe020d" />
 

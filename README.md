@@ -1,6 +1,9 @@
 Controle de Folga Semanal — 4 Lojas
 Gerenciador simples e rápido de escalas semanais para 4 lojas, com controle de folgas, turnos M/T/D e exportação em TXT e PDF. 100% front-end, sem backend, salva automaticamente no navegador.
 
+<img width="694" height="863" alt="Captura de tela 2026-10-12 210611" src="https://github.com/user-attachments/assets/33d1a638-94a6-4d5f-aea5-802b97fe020d" />
+
+
 Projeto feito em HTML + CSS + JS puro, com tema dark/light e armazenamento em localStorage.
 
 Preview
@@ -15,6 +18,7 @@ T 13:30 — Tarde
 FOLGA — Folga (verde)
 D 13:00 — Domingo especial
 Semana de referência com input date
+
 Resetar semana para M 6:30 em todos
 Remover funcionário com confirmação
 Salvar automático no localStorage (escala-dados)
